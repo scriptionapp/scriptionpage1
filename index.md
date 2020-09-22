@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Scription App Documentation
 
-You can use the [editor on GitHub](https://github.com/scriptionapp/scriptionpage1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can read the outline [on the project website](https://www.hayvn.org/scription-app-setup).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### To get up and running
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To use Scription, you need to have your environment set up.
 
-```markdown
-Syntax highlighted code block
+Step | Complexity
+------------ | -------------
+[Android Studio](https://github.com/scriptionapp/scriptionpage1/edit/gh-pages/android-studio.md)  | Simple
+[Firebase Account](https://github.com/scriptionapp/scriptionpage1/edit/gh-pages/firebase-account.md) | Simple
+[Firebase Back-end](https://github.com/scriptionapp/scriptionpage1/edit/gh-pages/firebase-backend.md) | Advanced
+[Distribution](https://github.com/scriptionapp/scriptionpage1/edit/gh-pages/distribution.md) | Advanced
+[Security](https://github.com/scriptionapp/scriptionpage1/edit/gh-pages/secure-scription.md) | Advanced
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scriptionapp/scriptionpage1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Links
+[documentation](https://docs.github.com/categories/github-pages-basics/)
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+[HOME](https://github.com/scriptionapp/scriptionpage1/edit/gh-pages/index.md) 
