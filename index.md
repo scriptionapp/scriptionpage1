@@ -5,7 +5,6 @@ You can read the outline [on the project website](https://www.hayvn.org/scriptio
 
 ### To get up and running
 
-To use Scription, you need to have your environment set up.
 
 Step | Complexity
 ------------ | -------------
