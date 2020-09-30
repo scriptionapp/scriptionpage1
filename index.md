@@ -6,13 +6,15 @@ You can read the outline [on the project website](https://www.hayvn.org/scriptio
 ### To get up and running
 
 
-|Step | Complexity
-| :---         |     :---:      
-|[Android Studio](https://scriptionapp.github.io/scriptionpage1/android-studio)  | Simple
-|[Firebase Account](https://scriptionapp.github.io/scriptionpage1/firebase-account) | Simple
-|[Firebase Back-end](https://scriptionapp.github.io/scriptionpage1/firebase-backend) | Advanced
-|[Distribution](https://scriptionapp.github.io/scriptionpage1/distribution) | Advanced
-|[Security](https://scriptionapp.github.io/scriptionpage1/secure-scription) | Advanced
+|Step  | Description | Complexity
+| :--- | :---         |     :---:   
+|1. |[Android Studio](https://scriptionapp.github.io/scriptionpage1/android-studio)  | Simple
+|2. |[Firebase Account](https://scriptionapp.github.io/scriptionpage1/firebase-account) | Simple
+|**3.** |[**Firebase Back-end**](https://scriptionapp.github.io/scriptionpage1/firebase-backend) | **Advanced**
+|4. |[Firebase Back-end](https://scriptionapp.github.io/scriptionpage1/firebase-backend) | Advanced
+|5. |[Distribution](https://scriptionapp.github.io/scriptionpage1/distribution) | Advanced
+|6. |[Security](https://scriptionapp.github.io/scriptionpage1/secure-scription) | Advanced
+|7. |[Customisation](https://scriptionapp.github.io/scriptionpage1/customisation) | Intermediate
 
 
 
