@@ -10,7 +10,8 @@
 |7. |[Security](https://github.com/scriptionapp/scriptionpage1/secure-scription) | Advanced
 
 
-## Firebase Back-End (Serverless)
+## Firebase Back-End 
+A serverless back-end for your Scription app.
 
 ### Setting up an email account for PIN reset notifications
 1. Register an account with Google and set up security measures like 2FA.
