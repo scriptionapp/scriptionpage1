@@ -1,14 +1,13 @@
 
-|Step  | | Complexity
-| :--- | :---         |     :---:
-|1. |[Home](https://github.com/scriptionapp/scriptionpage1/)  |       
-|2. |[Android Studio](https://github.com/scriptionapp/scriptionpage1/android-studio)  | Simple
-|3. |[Firebase Account](https://github.com/scriptionapp/scriptionpage1/firebase-account) | Simple
-|**4.** |[**Firebase Back-end**](https://github.com/scriptionapp/scriptionpage1/firebase-backend) | **Advanced**
-|5. |[Firebase Back-end](https://github.com/scriptionapp/scriptionpage1/firebase-backend) | Advanced
-|6. |[Distribution](https://github.com/scriptionapp/scriptionpage1/distribution) | Advanced
-|7. |[Security](https://github.com/scriptionapp/scriptionpage1/secure-scription) | Advanced
-
+|Step  | Description | Complexity
+| :--- | :---         |     :---:   
+|1. |[Android Studio](https://github.com/scriptionapp/scriptionpage1/android-studio)  | Simple
+|2. |[Firebase Account](https://github.com/scriptionapp/scriptionpage1/firebase-account) | Simple
+|**3.** |[**Firebase Back-end**](https://github.com/scriptionapp/scriptionpage1/firebase-backend) | **Advanced**
+|4. |[Firebase Back-end](https://github.com/scriptionapp/scriptionpage1/firebase-backend) | Advanced
+|5. |[Distribution](https://github.com/scriptionapp/scriptionpage1/distribution) | Advanced
+|6. |[Security](https://github.com/scriptionapp/scriptionpage1/secure-scription) | Advanced
+[Home](https://github.com/scriptionapp/scriptionpage1/)
 
 ## Firebase Back-End 
 A serverless back-end for your Scription app.
