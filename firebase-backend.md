@@ -1,12 +1,13 @@
 
-|Step | Complexity
-| :---         |     :---:      
-|[Android Studio](https://github.com/scriptionapp/scriptionpage1/android-studio)  | Simple
-|[Firebase Account](https://github.com/scriptionapp/scriptionpage1/firebase-account) | Simple
-|[**Firebase Back-end**](https://github.com/scriptionapp/scriptionpage1/firebase-backend) | **Advanced**
-|[Firebase Back-end](https://github.com/scriptionapp/scriptionpage1/firebase-backend) | Advanced
-|[Distribution](https://github.com/scriptionapp/scriptionpage1/distribution) | Advanced
-|[Security](https://github.com/scriptionapp/scriptionpage1/secure-scription) | Advanced
+|Step | --- | Complexity
+| :--- | :---         |     :---:
+|1. |[Home](https://github.com/scriptionapp/scriptionpage1/)  |       
+|2. |[Android Studio](https://github.com/scriptionapp/scriptionpage1/android-studio)  | Simple
+|3. |[Firebase Account](https://github.com/scriptionapp/scriptionpage1/firebase-account) | Simple
+|4. |[**Firebase Back-end**](https://github.com/scriptionapp/scriptionpage1/firebase-backend) | **Advanced**
+|5. |[Firebase Back-end](https://github.com/scriptionapp/scriptionpage1/firebase-backend) | Advanced
+|6. |[Distribution](https://github.com/scriptionapp/scriptionpage1/distribution) | Advanced
+|7. |[Security](https://github.com/scriptionapp/scriptionpage1/secure-scription) | Advanced
 
 
 ## Firebase Back-End (Serverless)
