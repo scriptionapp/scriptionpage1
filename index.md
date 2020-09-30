@@ -7,8 +7,8 @@ You can read the outline [on the project website](https://www.hayvn.org/scriptio
 
 
 |Step | Complexity
-|------------------------- | -------------
 | :---         |     :---:      
+|------------------------- | -------------
 |[Android Studio](https://github.com/scriptionapp/scriptionpage1/android-studio.md)  | Simple
 |[Firebase Account](https://github.com/scriptionapp/scriptionpage1/firebase-account.md) | Simple
 |[Firebase Back-end](https://github.com/scriptionapp/scriptionpage1/firebase-backend.md) | Advanced
