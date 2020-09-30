@@ -9,6 +9,7 @@ Track your progress:
 |4. |[Firebase Back-end](https://github.com/scriptionapp/scriptionpage1/firebase-backend) | Advanced
 |5. |[Distribution](https://github.com/scriptionapp/scriptionpage1/distribution) | Advanced
 |6. |[Security](https://github.com/scriptionapp/scriptionpage1/secure-scription) | Advanced
+|7. |[Customisation](https://github.com/scriptionapp/scriptionpage1/customisation) | Intermediate
 
 [Home](https://github.com/scriptionapp/scriptionpage1/)
 
