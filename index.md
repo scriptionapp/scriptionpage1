@@ -19,4 +19,4 @@ You can read the outline [on the project website](https://www.hayvn.org/scriptio
 
 
 ### Links
-[HOME](https://github.com/scriptionapp/scriptionpage1/index.md) 
+[HOME](https://github.com/scriptionapp/scriptionpage1/) 
