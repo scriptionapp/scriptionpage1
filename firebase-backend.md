@@ -1,25 +1,36 @@
-# Setting up an email account that will be sending PIN reset notifications
+# Setting up an email account for PIN reset notifications
 
-Comment: I recommend to have a separate email account for this functionality for security purposes.
 
+## Google account
 1. Register an account with Google and set up security measures like 2FA.
 2. Create a Firebase project for this account.
-3. Go to Google Cloud Dashboard: https://console.cloud.google.com/home/dashboard and select your project
+3. Go to Google Cloud Dashboard: https://console.cloud.google.com/home/dashboard and select your project.
 4. Click *Go to project settings* at the bottom of the *Project Info* section of the dashboard.
-5. Click on the hamburger menu at the top left > API & Service > Credentials
-6. Create Credentials and choose OAuth client ID
-7. Select Web Application. Name it (e.g. LegalAppNodemailer). 
+5. Click on the hamburger menu at the top left and select API & Services > Credentials.
+6. Create Credentials and choose OAuth client ID.
+7. Select Web Application. Name it (e.g. MyScriptionAppNodemailer). 
 8. Under restrictions add https://developers.google.com/oauthplayground
 9. Save the credentials (ID and secret) somewhere secure. Do not share this online.
-10. Go to https://developers.google.com/oauthplayground and click the tools icon in the top right. Check the box that says Use your own OAuth credentials and enter your client ID and secret. Without closing out of the settings, enter https://mail.google.com/ into the box in the Select and authorize APIs section and press Authorize APIs. You should get a very scary-looking screen.
-Nothing to worry about, this just means Google hasn’t confirmed our app is okay to use (duh, we just made it). Click the Advanced button on the left and then press Go to Your App’s Name (unsafe). We get another, less intimidating screen.
-Click Allow and you should get redirected back to the OAuth page. Now go to Step 2 of the sidebar on the left and press Exchange authorization code for tokens.
-This should populate the two boxes below called Refresh token and Access token with a couple of strings. Copy down the Refresh token as we’ll need it for later!
-11. npm install googleapis
-12. It is generally not a good practic to store yuor secters hard-coded, so do the following:
-using Firebase CLI:
+10. Go to https://developers.google.com/oauthplayground and click the settings icon in the top right. Select "Use your own OAuth credentials" and enter your details: client ID and secret. At the bottom left, under "Select and authorize APIs section" enter https://mail.google.com/ and press "Authorize APIs". On the enxt screen, click the Advanced button and select "Go to Your App’s Name (unsafe)". Click "Allow" and go to Step 2 of the sidebar on the left and press "Exchange authorization code for tokens". Copy down the information you see and save somewhere secure.
 
+
+## Firebase functions
+Prerequisites: Node.js, Firebase CLI.
+
+1. Clone the repository for Scription Firebase Functions.
+2. Initialise a Firebase project there (firebase init and select the Firebase project that your Scription app is associated with).
+3. cd to folder "functions" and run: 
+```
+npm install
+```
+4. In the same folder run these commands:
+```
 firebase functions:config:set gmail.clientid="your client id"
 firebase functions:config:set gmail.clientsecret="your client secret"
 firebase functions:config:set gmail.refreshtoken="your refresh token"
 firebase functions:config:set gmail.accesstoken="your access token"
+```
+5. Deploy the Firebase functions by running 
+```
+firebase deploy --only functions
+```
