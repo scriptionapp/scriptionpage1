@@ -16,4 +16,10 @@ Nothing to worry about, this just means Google hasn’t confirmed our app is oka
 Click Allow and you should get redirected back to the OAuth page. Now go to Step 2 of the sidebar on the left and press Exchange authorization code for tokens.
 This should populate the two boxes below called Refresh token and Access token with a couple of strings. Copy down the Refresh token as we’ll need it for later!
 11. npm install googleapis
+12. It is generally not a good practic to store yuor secters hard-coded, so do the following:
+using Firebase CLI:
 
+firebase functions:config:set gmail.clientid="your client id"
+firebase functions:config:set gmail.clientsecret="your client secret"
+firebase functions:config:set gmail.refreshtoken="your refresh token"
+firebase functions:config:set gmail.accesstoken="your access token"
