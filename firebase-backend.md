@@ -1,3 +1,14 @@
+
+|Step | Complexity
+| :---         |     :---:      
+|[Android Studio](https://github.com/scriptionapp/scriptionpage1/android-studio.md)  | Simple
+|[Firebase Account](https://github.com/scriptionapp/scriptionpage1/firebase-account.md) | Simple
+|**[Firebase Back-end](https://github.com/scriptionapp/scriptionpage1/firebase-backend.md) | Advanced**
+| ^^^ you are here ^^^|
+|[Firebase Back-end](https://github.com/scriptionapp/scriptionpage1/firebase-backend.md) | Advanced
+|[Distribution](https://github.com/scriptionapp/scriptionpage1/distribution.md) | Advanced
+|[Security](https://github.com/scriptionapp/scriptionpage1/secure-scription.md) | Advanced
+
 # Setting up an email account for PIN reset notifications
 
 
