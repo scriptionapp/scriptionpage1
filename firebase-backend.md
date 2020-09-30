@@ -1,5 +1,5 @@
 
-|Step | --- | Complexity
+|Step  | Complexity
 | :--- | :---         |     :---:
 |1. |[Home](https://github.com/scriptionapp/scriptionpage1/)  |       
 |2. |[Android Studio](https://github.com/scriptionapp/scriptionpage1/android-studio)  | Simple
