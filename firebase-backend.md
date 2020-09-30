@@ -3,15 +3,15 @@ Track your progress:
 
 |Step  | Description | Complexity
 | :--- | :---         |     :---:   
-|1. |[Android Studio](https://github.com/scriptionapp/scriptionpage1/android-studio)  | Simple
-|2. |[Firebase Account](https://github.com/scriptionapp/scriptionpage1/firebase-account) | Simple
-|**3.** |[**Firebase Back-end**](https://github.com/scriptionapp/scriptionpage1/firebase-backend) | **Advanced**
-|4. |[Firebase Back-end](https://github.com/scriptionapp/scriptionpage1/firebase-backend) | Advanced
-|5. |[Distribution](https://github.com/scriptionapp/scriptionpage1/distribution) | Advanced
-|6. |[Security](https://github.com/scriptionapp/scriptionpage1/secure-scription) | Advanced
-|7. |[Customisation](https://github.com/scriptionapp/scriptionpage1/customisation) | Intermediate
+|1. |[Android Studio](https://scriptionapp.github.io/scriptionpage1/android-studio)  | Simple
+|2. |[Firebase Account](https://scriptionapp.github.io/scriptionpage1/firebase-account) | Simple
+|**3.** |[**Firebase Back-end**](https://scriptionapp.github.io/scriptionpage1/firebase-backend) | **Advanced**
+|4. |[Firebase Back-end](https://scriptionapp.github.io/scriptionpage1/firebase-backend) | Advanced
+|5. |[Distribution](https://scriptionapp.github.io/scriptionpage1/distribution) | Advanced
+|6. |[Security](https://scriptionapp.github.io/scriptionpage1/secure-scription) | Advanced
+|7. |[Customisation](https://scriptionapp.github.io/scriptionpage1/customisation) | Intermediate
 
-[Home](https://github.com/scriptionapp/scriptionpage1/)
+[Home](https://scriptionapp.github.io/scriptionpage1/)
 
 
 
